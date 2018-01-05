@@ -1,0 +1,6 @@
+__pycache__
+cats
+downloads
+settings.py
+mybase.db
+*.log
